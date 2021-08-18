@@ -1,3 +1,5 @@
-<h1>Hello World</h1>
+<footer>Hello World</footer>
+
+<?php wp_footer() ?>
 </body>
 </html>
